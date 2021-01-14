@@ -13,5 +13,8 @@ $(document).ready(function() {
       $(".userDob").text(dob);
       $(".userColor").text(color);
       $(".output").fadeIn();
+
+  
     });
+
   });
